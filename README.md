@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 
 ![boxcheese](https://count.getloli.com/get/@boxcheese)
 
+<head>
+  <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
+<body>
+
+
+
 <!--
 [![cboxcheese's github stats](https://github-readme-stats.vercel.app/api?username=boxcheese)](https://github.com/boxcheese/github-readme-stats)
 - 👯 I’m looking to collaborate on ...
