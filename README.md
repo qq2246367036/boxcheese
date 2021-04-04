@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - 🍗 我正在努力的学习程序
 - 💬 我会说汉语、英语和一点日语。
 - 📫 您可以通过**QQ**（1620793284）与我联系。
-
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=WangDanPeng&show_icons=true">
 
 <!--
