@@ -5,4 +5,4 @@
 - 💬我能说中国话和英语还有日语。
 - 📫您可以通过以QQ来联系我（1620793284）。
 
-![](https://github-readme-stats.vercel.app/api?username=boxcheese)
+！[Anurag的GitHub统计信息]（https://github-readme-stats.vercel.app/api？username = boxcheese＆show_icons = true＆theme = radical）
