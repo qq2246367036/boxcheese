@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - 💬 I can speak Chinese, English and a little bit Japanese.
 - 📫 You can contact me via **Gmail**(a1620793284@gmail.com) or **QQ**(1620793284).
 
-[![cwxyr's github stats](https://github-readme-stats.vercel.app/api?username=boxcheese&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![boxcheese's github stats](https://github-readme-stats.vercel.app/api?username=boxcheese&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxcheese&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![cwxyr](https://count.getloli.com/get/@cwxyr)
+![boxcheese](https://count.getloli.com/get/@boxcheese)
 
 <!--
-[![cwxyr's github stats](https://github-readme-stats.vercel.app/api?username=cwxyr)](https://github.com/cwxyr/github-readme-stats)
+[![cboxcheese's github stats](https://github-readme-stats.vercel.app/api?username=boxcheese)](https://github.com/boxcheese/github-readme-stats)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
