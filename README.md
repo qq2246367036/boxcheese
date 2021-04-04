@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <head>
   <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
-<body>
+</head>
 
 
 
