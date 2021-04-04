@@ -15,14 +15,7 @@ Here are some ideas to get you started:
 - 💬 I can speak Chinese, English and a little bit Japanese.
 - 📫 You can contact me via **Gmail**(a1620793284@gmail.com) or **QQ**(1620793284).
 
-[![boxcheese's github stats](https://github-readme-stats.vercel.app/api?username=boxcheese&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxcheese&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![boxcheese](https://count.getloli.com/get/@boxcheese)
-
-<head>
-  <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
-</head>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=WangDanPeng&show_icons=true">
 
 
 
