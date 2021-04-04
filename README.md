@@ -1,4 +1,7 @@
 # Hi there  こんにちは~🎈
-<br/><!--**Mayandev/Mayandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<br/>Here are some ideas to get you started:
-<br/>-   I’m currently working on ...<br/>-   I’m currently learning ...<br/>-   I’m looking to collaborate on ...<br/>-   I’m looking for help with ...<br/>-   Ask me about ...<br/>-   How to reach me: ...<br/>-   Pronouns: ...<br/>- ⚡ Fun fact: ...<br/>-->
+- 🔭我目前在初中就读。
+- 😄我目前正在学习的HTML，Python和JavaScript的。
+- 🍗我学习计划硬，**希望早日成才**。
+- 💬我能说中国话和英语。
+- 📫您可以通过以QQ来联系我（466491019）。
+	
