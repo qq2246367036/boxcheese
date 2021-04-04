@@ -1,8 +1,6 @@
 # Hi there  こんにちは~🎈
 
-
-<img  src="https://github-readme-stats.vercel.app/api?username=mayandev" align='Right'/>
-- 🔭我目前在初中就读。
+- 🔭我目前在初中就读。<img  src="https://github-readme-stats.vercel.app/api?username=mayandev" align='Right'/>
 - 😄我目前正在学习的HTML，Python等。
 - 🍗我学习计划硬，**希望早日成才**。
 - 💬我能说中国话和英语还有日语。
