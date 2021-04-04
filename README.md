@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 ![profile](https://cdn2.sublimerui.top/2020/10/11/00ed4f7376d3b.png)
 -->
 
-- 🔭 I'm currently studying in the university.
-- 😄 I'm currently learning Java, Python and JavaScript.
+- 🔭 I'm currently studying in junior high school.
+- 😄 I'm currently learning HTML, Python and JavaScript.
 - 🍗 I'm learning program hard, **hoping that one day I can be an excellent coder.**
 - 💬 I can speak Chinese, English and a little bit Japanese.
 - 📫 You can contact me via **Gmail**(a1620793284@gmail.com) or **QQ**(1620793284).
